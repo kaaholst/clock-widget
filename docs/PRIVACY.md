@@ -1,4 +1,10 @@
-# Privay policy 
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy/
+---
+
+# Privacy policy 
 
 for [Clock, Date and Weather Widget](http://play.google.com/store/apps/details?id=dk.aaholst.clockwidget)
 
